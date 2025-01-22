@@ -1,3 +1,6 @@
+# Background
+This is coursework for Patrck Collins' Advanced Foundry course. The rest of this README is standard foundry.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
